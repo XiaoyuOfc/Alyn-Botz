@@ -8,7 +8,7 @@ global.mods = ['6289652963317']   // isi jika perlu
 global.prems = ['6285768388625', '6289653205545']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = 'Ongner tanvann' // isi nama kalian bebas
+global.nameowner = 'Ongner tanvn' // isi nama kalian bebas
 global.numberowner = '6289652963317' // isi nomor kalian dengan awalan seperti di contoh 
 global.instagram = 'https://chat.whatsapp.com/DFYCMEj2JwAFw8pY55VkXv' // isi Instagram kalian harus link
 global.github = 'https://chat.whatsapp.com/DFYCMEj2JwAFw8pY55VkXv' // gausah di isi juga gpp bro
