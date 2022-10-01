@@ -1,8 +1,8 @@
 
 {
     "name": "rtxzy",
-    "version": "07.06.98",
-    "description": "Customizable WhatsApp Bot",
+    "version": "07.06.99",
+    "description": "Bot Whatsapp Multi Auth",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -27,16 +27,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/BOTCAHX/rtxzy-Md-v2",
+    "homepage": "https://github.com/BOTCAHX/RTXZY-MD",
     "author": {
         "name": "Base Coded By TioXd"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BOTCAHX/rtxzy-Md-v2.git"
+        "url": "git+https://github.com/BOTCAHX/RTXZY-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/BOTCAHX/rtxzy-Md-v2/issues"
+        "url": "https://github.com/BOTCAHX/RTXZY-MD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
@@ -72,7 +72,8 @@
         "nodemon": "^2.0.20",
         "os": "^0.1.2",
         "perf_hooks": "^0.0.1",
-        "qrcode": "^1.5.1",
+        "qrcode": "^1.5.0",
+        "qrcode-terminal": "^0.12.0",
         "readline": "^1.3.0",
         "similarity": "^1.2.1",
         "socket.io": "^4.5.1",
